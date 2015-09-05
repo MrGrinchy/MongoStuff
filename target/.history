@@ -1,0 +1,6 @@
+gen-idea
+compile
+clean
+update
+compile
+exit

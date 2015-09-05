@@ -1,0 +1,49 @@
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set()[0m
+[0m[[0mdebug[0m] [0m	added: Set(C:\Users\User\IdeaProjects\MongoStuff\src\main\scala\Adminstrable.scala, C:\Users\User\IdeaProjects\MongoStuff\src\main\scala\ReadOnly.scala, C:\Users\User\IdeaProjects\MongoStuff\src\main\scala\Updatable.scala)[0m
+[0m[[0mdebug[0m] [0m	modified: Set(C:\Users\User\IdeaProjects\MongoStuff\src\main\scala\HelloWorld.scala)[0m
+[0m[[0mdebug[0m] [0mRemoved products: Set(C:\Users\User\IdeaProjects\MongoStuff\target\scala-2.11\classes\HelloWorld$MongoClient.class, C:\Users\User\IdeaProjects\MongoStuff\target\scala-2.11\classes\HelloWorld$DB$$anonfun$collectionNames$1.class, C:\Users\User\IdeaProjects\MongoStuff\target\scala-2.11\classes\HelloWorld$DB.class, C:\Users\User\IdeaProjects\MongoStuff\target\scala-2.11\classes\HelloWorld$DB$.class, C:\Users\User\IdeaProjects\MongoStuff\target\scala-2.11\classes\HelloWorld.class, C:\Users\User\IdeaProjects\MongoStuff\target\scala-2.11\classes\HelloWorld$.class)[0m
+[0m[[0mdebug[0m] [0mExternal API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(C:\Users\User\IdeaProjects\MongoStuff\src\main\scala\Adminstrable.scala, C:\Users\User\IdeaProjects\MongoStuff\src\main\scala\ReadOnly.scala, C:\Users\User\IdeaProjects\MongoStuff\src\main\scala\Updatable.scala, C:\Users\User\IdeaProjects\MongoStuff\src\main\scala\HelloWorld.scala)[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set(C:\Users\User\IdeaProjects\MongoStuff\src\main\scala\HelloWorld.scala)[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(C:\Users\User\IdeaProjects\MongoStuff\src\main\scala\Adminstrable.scala, C:\Users\User\IdeaProjects\MongoStuff\src\main\scala\ReadOnly.scala, C:\Users\User\IdeaProjects\MongoStuff\src\main\scala\Updatable.scala, C:\Users\User\IdeaProjects\MongoStuff\src\main\scala\HelloWorld.scala)[0m
+[0m[[0mdebug[0m] [0mRecompiling all 4 sources: invalidated sources (4) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 4 Scala sources to C:\Users\User\IdeaProjects\MongoStuff\target\scala-2.11\classes...[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.11.4[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.11.4[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 7dd35a04, interfacing (CompilerInterface) with Scala compiler version 2.11.4[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	C:\Program Files\Java\jdk1.7.0_55\jre\lib\resources.jar;C:\Program Files\Java\jdk1.7.0_55\jre\lib\rt.jar;C:\Program Files\Java\jdk1.7.0_55\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.7.0_55\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.7.0_55\jre\lib\jce.jar;C:\Program Files\Java\jdk1.7.0_55\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.7.0_55\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.7.0_55\jre\classes;C:\Users\User\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.4.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	C:\Users\User\IdeaProjects\MongoStuff\target\scala-2.11\classes;C:\Users\User\.ivy2\cache\org.mongodb\casbah-commons_2.11\jars\casbah-commons_2.11-2.8.2.jar;C:\Users\User\.ivy2\cache\com.github.nscala-time\nscala-time_2.11\jars\nscala-time_2.11-1.0.0.jar;C:\Users\User\.ivy2\cache\joda-time\joda-time\jars\joda-time-2.3.jar;C:\Users\User\.ivy2\cache\org.joda\joda-convert\jars\joda-convert-1.2.jar;C:\Users\User\.ivy2\cache\org.slf4j\slf4j-api\jars\slf4j-api-1.6.0.jar;C:\Users\User\.ivy2\cache\org.mongodb\mongo-java-driver\jars\mongo-java-driver-2.13.2.jar;C:\Users\User\.ivy2\cache\org.mongodb\casbah-core_2.11\jars\casbah-core_2.11-2.8.2.jar;C:\Users\User\.ivy2\cache\org.mongodb\casbah-query_2.11\jars\casbah-query_2.11-2.8.2.jar;C:\Users\User\.ivy2\cache\org.mongodb\casbah-gridfs_2.11\jars\casbah-gridfs_2.11-2.8.2.jar[0m
+[0m[[33mwarn[0m] [0mthere was one deprecation warning; re-run with -deprecation for details[0m
+[0m[[33mwarn[0m] [0mthere were four feature warnings; re-run with -feature for details[0m
+[0m[[33mwarn[0m] [0mtwo warnings found[0m
+[0m[[0mdebug[0m] [0mScala compilation took 1.005544427 s[0m
+[0m[[0mdebug[0m] [0mInvalidating by inheritance (transitively)...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(C:\Users\User\IdeaProjects\MongoStuff\src\main\scala\Adminstrable.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive public inheritance: Set(C:\Users\User\IdeaProjects\MongoStuff\src\main\scala\Adminstrable.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by direct dependency: Set()[0m
+[0m[[0mdebug[0m] [0mInvalidating by inheritance (transitively)...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(C:\Users\User\IdeaProjects\MongoStuff\src\main\scala\ReadOnly.scala)[0m
+[0m[[0mdebug[0m] [0mIncluding C:\Users\User\IdeaProjects\MongoStuff\src\main\scala\Updatable.scala by C:\Users\User\IdeaProjects\MongoStuff\src\main\scala\ReadOnly.scala[0m
+[0m[[0mdebug[0m] [0mIncluding C:\Users\User\IdeaProjects\MongoStuff\src\main\scala\Adminstrable.scala by C:\Users\User\IdeaProjects\MongoStuff\src\main\scala\ReadOnly.scala[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive public inheritance: Set(C:\Users\User\IdeaProjects\MongoStuff\src\main\scala\Adminstrable.scala, C:\Users\User\IdeaProjects\MongoStuff\src\main\scala\Updatable.scala, C:\Users\User\IdeaProjects\MongoStuff\src\main\scala\ReadOnly.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by direct dependency: Set(C:\Users\User\IdeaProjects\MongoStuff\src\main\scala\Updatable.scala, C:\Users\User\IdeaProjects\MongoStuff\src\main\scala\Adminstrable.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidating by inheritance (transitively)...[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(C:\Users\User\IdeaProjects\MongoStuff\src\main\scala\Updatable.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by transitive public inheritance: Set(C:\Users\User\IdeaProjects\MongoStuff\src\main\scala\Updatable.scala)[0m
+[0m[[0mdebug[0m] [0mInvalidated by direct dependency: Set()[0m
+[0m[[0mdebug[0m] [0mNew invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mInitial set of included nodes: Set()[0m
+[0m[[0mdebug[0m] [0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m	Set()[0m
+[0m[[0mdebug[0m] [0mAll newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m
